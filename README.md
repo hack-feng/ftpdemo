@@ -2,7 +2,7 @@
 上传ftp服务器util工具类
 
 
-com.maple.ftpdemo
+com.maple.ftpdemo<br>
   -bean
     -FtpBean.java             ftp基础配置对象
   -util
